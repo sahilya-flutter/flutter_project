@@ -89,7 +89,7 @@ class _BookHomePageState extends State<BookHomePage> {
                   crossAxisCount: 2,
                   crossAxisSpacing: 10.0,
                   mainAxisSpacing: 10.0,
-                  childAspectRatio: 0.57,
+                  childAspectRatio: 0.55,
                 ),
                 itemCount: books.length,
                 itemBuilder: (context, index) {
